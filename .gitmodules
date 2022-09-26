@@ -2,3 +2,6 @@
 	path = ss-pybullet
 	url = https://github.com/viraj96/pybullet-planning.git
 	branch = dev_branch
+[submodule "pddlstream"]
+	path = pddlstream
+	url = https://github.com/viraj96/pddlstream.git
