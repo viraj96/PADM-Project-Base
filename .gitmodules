@@ -4,4 +4,5 @@
 	branch = dev_branch
 [submodule "pddlstream"]
 	path = pddlstream
-	url = https://github.com/viraj96/pddlstream.git
+    url = https://github.com/viraj96/pddlstream.git
+    branch = devel-branch
