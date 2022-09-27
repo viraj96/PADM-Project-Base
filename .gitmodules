@@ -6,6 +6,3 @@
 	path = pddlstream
     url = https://github.com/viraj96/pddlstream.git
     branch = devel-branch
-[submodule "pddl-parser"]
-	path = pddl-parser
-	url = https://github.com/pucrs-automated-planning/pddl-parser.git
